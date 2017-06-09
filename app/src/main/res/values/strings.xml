@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BluetoothChatroom</string>
+
+    <string name="action_create">创建聊天室</string>
+    <string name="action_join">加入聊天室</string>
+
+    <!-- bluetooth State -->
+    <string name="no_bluetooth">您的设备不支持蓝牙，此应用程序不能使用</string>
+    <string name="bluetooth_disabled_message">蓝牙已关闭</string>
+    <string name="bluetooth_enabled_message">蓝牙已开启</string>
+    <string name="bluetooth_turning_off_message">蓝牙正在关闭</string>
+    <string name="bluetooth_turning_on_message">蓝牙正在开启</string>
+    <string name="enable_bluetooth_label">蓝牙可用</string>
+    <string name="bluetooth_name_label">您的设备名称</string>
+
+    <!-- SetupServerActivity -->
+    <string name="accepted_clients_label">接受用户的连接请求</string>
+    <string name="found_clients_label">发现用户的连接请求</string>
+    <string name="start_chatroom_label">创建聊天室</string>
+    <string name="menu_swap">切换</string>
+    <string name="menu_remove">踢出</string>
+
+    <!-- SetupServerActivity status -->
+    <string name="status_no_clients">正在等待用户连接</string>
+    <string name="status_no_accepted_clients">创建聊天室必须至少添加一个用户</string>
+    <string name="status_accepted_clients">聊天室已经准备就绪，点击下方按钮创建聊天室</string>
+
+    <!-- PairingActivity -->
+    <string name="pairing_label_found_devices">发现蓝牙设备</string>
+    <string name="pairing_label_status">状态</string>
+
+    <string name="pairing_action_click_fab">点击下方按钮搜索蓝牙设备</string>
+    <string name="pairing_action_click_btd">选择要连接的蓝牙设备</string>
+    <string name="pairing_action_waiting">等待主机创建聊天室</string>
+    <string name="pairing_message_searching">正在搜索蓝牙设备</string>
+    <string name="pairing_message_search_finished">完成搜索蓝牙设备</string>
+    <string name="pairing_message_search_failed">找不到蓝牙设备</string>
+    <string name="pairing_message_connecting">正在连接到主机</string>
+    <string name="pairing_message_connected">已连接到主机</string>
+    <string name="pairing_message_connect_failed">无法连接到主机</string>
+    <string name="pairing_message_connection_closed">连接已关闭</string>
+
+    <!-- PairingActivity status -->
+    <string name="status_not_finding">目前不在寻找主机</string>
+    <string name="status_finding">正在搜索主机</string>
+    <string name="status_found">选择要连接的主机</string>
+    <string name="status_not_found">找不到主机</string>
+    <string name="status_connecting">正在连接到主机</string>
+    <string name="status_connect_failed">无法连接到主机</string>
+    <string name="status_connect_declined">连接被主机拒绝</string>
+    <string name="status_connect_canceled">连接被用户取消</string>
+    <string name="status_connected">已连接，等待主机创建聊天室</string>
+    <string name="cancel_connection">取消连接</string>
+</resources>

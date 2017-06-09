@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_swap"
+        android:icon="@mipmap/ic_swap_vert_white"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu_swap"/>
+
+    <item
+        android:id="@+id/menu_remove"
+        android:icon="@mipmap/ic_person_close_white_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu_remove"/>
+</menu>
