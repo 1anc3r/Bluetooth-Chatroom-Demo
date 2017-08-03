@@ -3,6 +3,7 @@
 
 ## 应用界面
 <img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/screenshot/%E5%9B%BE%E7%89%871.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/screenshot/%E5%9B%BE%E7%89%872.png" width = "288" height = "512" alt="" />
+
 <img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/screenshot/%E5%9B%BE%E7%89%873.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/screenshot/%E5%9B%BE%E7%89%874.png" width = "288" height = "512" alt="" />
 
 ## 关于
