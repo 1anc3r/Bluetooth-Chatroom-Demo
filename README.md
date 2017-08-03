@@ -1,6 +1,8 @@
 # 蓝牙聊天室(BluetoothChatroom)
 <img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width = "96" height = "96" alt="icon"/>
 
+下载链接:http://fir.im/bluetoothchatroom
+
 ## 应用界面
 <img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/screenshot/%E5%9B%BE%E7%89%871.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/screenshot/%E5%9B%BE%E7%89%872.png" width = "288" height = "512" alt="" />
 
