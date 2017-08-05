@@ -10,8 +10,7 @@
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
+        android:layout_margin="8dp"
         android:gravity="center"
         android:orientation="vertical">
 
@@ -19,7 +18,7 @@
             android:id="@+id/btn_create_chatroom"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
+            android:layout_margin="8dp"
             android:background="@android:color/holo_blue_light"
             android:text="创建聊天室"
             android:textColor="@android:color/white" />
@@ -28,7 +27,7 @@
             android:id="@+id/btn_join_chatroom"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
+            android:layout_margin="8dp"
             android:background="@android:color/holo_green_light"
             android:text="加入聊天室"
             android:textColor="@android:color/white" />
