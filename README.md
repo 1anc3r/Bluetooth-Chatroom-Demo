@@ -1,4 +1,4 @@
-# 蓝牙聊天室(BluetoothChatroom)
+# 蓝牙聊天室(BluetoothChatroomDemo)
 <img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width = "96" height = "96" alt="icon"/>
 
 下载链接:http://fir.im/bluetoothchatroom
